@@ -14,3 +14,4 @@ Purchase_Frequency =  Total_Number_of_Orders / Total_Number_of_Customers
 Churn_Rate = 1 - Repeat_Rate
 Profit_margin
 
+------------------------------------------------------------------
