@@ -1,6 +1,6 @@
 # CUSTOMER_LIFETIME_VALUE
 -----------------------------------------------------------------
-Project Steps
+## Project Steps
 
 *  Calculation of the expected number of selling number in a specific time period by using BG/NBD.
 * Calculation of the expected average profit with Gamma Gamma modeling.
