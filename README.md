@@ -1,4 +1,4 @@
-# CUSTOMER_LIFETIME_VALUE
+# CUSTOMER LIFETIME VALUE
 
 Customer lifetime value for a firm is the net profit or loss to the firm from a customer over the entire life of transactions of that customer with the firm
 
