@@ -5,9 +5,9 @@ Customer lifetime value for a firm is the net profit or loss to the firm from a 
 
 ## Project Steps
 
-*  Calculation of the expected number of selling number in a specific time period by using BG/NBD.
-* Calculation of the expected average profit with Gamma Gamma modeling.
-* By combining them we get the CLTV.
+1. Calculation of the expected number of selling number in a specific time period by using BG/NBD.
+2. Calculation of the expected average profit with Gamma Gamma modeling.
+3. By combining them we get the CLTV.
 
 
 ## How to Calculate Customer Lifetime Value?
